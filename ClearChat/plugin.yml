@@ -1,0 +1,9 @@
+name: ClearChat
+main: main.ClearChat
+version: 1.0
+api-version: 1.13
+author: Griillz
+commands:
+  clearchat:
+    description: Main command that clears the chat.
+    usage: /clearchat
